@@ -1,0 +1,4 @@
+print ("Hola")
+print "adios"
+
+a = 2 + 6
